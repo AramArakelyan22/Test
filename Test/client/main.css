@@ -1,0 +1,29 @@
+/* CSS declarations go here */
+.container {
+    max-width: 1000px;
+    margin: 100px auto;
+    text-align: center;
+
+}
+
+ul li {
+    list-style-type: none;
+    padding: 10px;
+    border: 1px solid grey
+}
+
+ul li input {
+    border: none;
+    margin : 5px;
+    background-color: #ffffff
+}
+
+ul li label {
+    font-weight: 700
+}
+
+.list-item {
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
